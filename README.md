@@ -32,7 +32,7 @@ Clone into your ComfyUI `custom_nodes` folder:
 
 ```bash
 cd ComfyUI/custom_nodes
-git clone https://github.com/f-tuners/ComfyUI-AnimaDynamicCFG.git
+git clone https://github.com/DanrisiUA/ComfyUI-AnimaDynamicCFG.git
 ```
 
 Restart ComfyUI. Nodes appear under `Anima/sampling` and `Anima/realism`.
